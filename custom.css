@@ -1,0 +1,34 @@
+.CodeMirror { /* code font */
+    font-family: "Inconsolata-dz", monospace;
+    font-size: 17pt;
+}
+
+.codeM {
+	font-family: monospace;
+}
+
+
+.output_area pre {
+    font-family: Consolas, monospace;
+    font-size: x-large;
+    line-height: 150%
+}
+
+.persian {
+	font-family: "XB Zar";
+	font-size: 17pt;
+	line-height:300%;
+	direction: rtl;
+}
+
+.english {
+	font-family: "XB Zar";
+	font-size: 17pt;
+	line-height:200%;
+	direction:ltr;
+	text-align:left;
+}
+
+.bold {
+	font-weight:bold;
+}
